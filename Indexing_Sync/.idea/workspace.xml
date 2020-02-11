@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Indexing:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7a0cf95-e2b8-424c-b312-1b106d6fd188" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1S0fHM1eKd7U4QBcWHaYicRIOAI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunManager" selected="Application.Query_Quijote">
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="Indexing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Indexing_example1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="eps.scp.Indexing" />
+      <module name="Indexing" />
+      <option name="PROGRAM_PARAMETERS" value="test/example1.txt 1 10 output/example1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Indexing_example2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="eps.scp.Indexing" />
+      <module name="Indexing" />
+      <option name="PROGRAM_PARAMETERS" value="test/example2.txt 1 10 output/example2" />
+      <RunnerSettings RunnerId="Debug with VisualVM">
+        <option name="visualVMId" value="132732498004554" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Indexing_example3" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="eps.scp.Indexing" />
+      <module name="Indexing" />
+      <option name="PROGRAM_PARAMETERS" value="test/example3.txt 1 10 output/example3" />
+      <RunnerSettings RunnerId="Debug with VisualVM">
+        <option name="visualVMId" value="217110747386471" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Indexing_quijote" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="eps.scp.Indexing" />
+      <module name="Indexing" />
+      <option name="PROGRAM_PARAMETERS" value="test/pg2000.txt 10 10 output/quijote" />
+      <RunnerSettings RunnerId="Debug with VisualVM">
+        <option name="visualVMId" value="165925266092786" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Query_Example1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="eps.scp.Query" />
+      <module name="Indexing" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;6789012345&quot; output/example1/ test/example1.txt 3 10" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Query_Example2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="eps.scp.Query" />
+      <module name="Indexing" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;123456789012345&quot; output/example2 test/example2.txt 5 10" />
+      <RunnerSettings RunnerId="Debug with VisualVM">
+        <option name="visualVMId" value="29285887222876" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Query_Example3" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="eps.scp.Query" />
+      <module name="Indexing" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;345678902456789&quot; output/example3 test/example3.txt 3 10" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Query_Quijote" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="eps.scp.Query" />
+      <module name="Indexing" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;En un lugar de la Mancha&quot; output/quijote/ test/pg2000.txt 3 10" />
+      <RunnerSettings RunnerId="Debug with VisualVM">
+        <option name="visualVMId" value="135946220987113" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Indexing_example1" />
+      <item itemvalue="Application.Indexing_example3" />
+      <item itemvalue="Application.Indexing_quijote" />
+      <item itemvalue="Application.Query_Example1" />
+      <item itemvalue="Application.Query_Example2" />
+      <item itemvalue="Application.Query_Example3" />
+      <item itemvalue="Application.Query_Quijote" />
+      <item itemvalue="Application.Indexing_example2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Indexing_example2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7a0cf95-e2b8-424c-b312-1b106d6fd188" name="Default" comment="" />
+      <created>1570471581823</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570471581823</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="178" width="800" height="675" key="#Project_Structure" timestamp="1576512812934">
+      <screen x="0" y="27" width="1920" height="979" />
+    </state>
+    <state x="555" y="178" width="800" height="675" key="#Project_Structure/0.27.1920.979@0.27.1920.979" timestamp="1576512812934" />
+    <state x="160" y="264" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579733764460">
+      <screen x="0" y="27" width="1920" height="979" />
+    </state>
+    <state x="160" y="264" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.979@0.27.1920.979" timestamp="1579733764460" />
+    <state x="740" y="322" width="533" height="386" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576086395171">
+      <screen x="0" y="27" width="1920" height="979" />
+    </state>
+    <state x="740" y="322" width="533" height="386" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.979@0.27.1920.979" timestamp="1576086395171" />
+    <state x="951" y="364" width="525" height="424" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1576486562283">
+      <screen x="0" y="27" width="1920" height="979" />
+    </state>
+    <state x="951" y="364" width="525" height="424" key="#com.intellij.ide.util.TreeClassChooserDialog/0.27.1920.979@0.27.1920.979" timestamp="1576486562283" />
+    <state x="808" y="408" width="293" height="214" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1576086151681">
+      <screen x="0" y="27" width="1920" height="979" />
+    </state>
+    <state x="808" y="408" width="293" height="214" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.27.1920.979@0.27.1920.979" timestamp="1576086151681" />
+    <state x="538" y="173" width="824" height="682" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1576086145682">
+      <screen x="0" y="27" width="1920" height="979" />
+    </state>
+    <state x="538" y="173" width="824" height="682" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.27.1920.979@0.27.1920.979" timestamp="1576086145682" />
+    <state x="743" y="274" width="424" height="482" key="FileChooserDialogImpl" timestamp="1577037154113">
+      <screen x="0" y="27" width="1920" height="979" />
+    </state>
+    <state x="743" y="274" width="424" height="482" key="FileChooserDialogImpl/0.27.1920.979@0.27.1920.979" timestamp="1577037154113" />
+    <state width="1878" height="380" key="GridCell.Tab.0.bottom" timestamp="1579790547692">
+      <screen x="0" y="27" width="1920" height="979" />
+    </state>
+    <state width="1878" height="380" key="GridCell.Tab.0.bottom/0.27.1920.979@0.27.1920.979" timestamp="1579790547692" />
+    <state width="1878" height="380" key="GridCell.Tab.0.center" timestamp="1579790547692">
+      <screen x="0" y="27" width="1920" height="979" />
+    </state>
+    <state width="1878" height="380" key="GridCell.Tab.0.center/0.27.1920.979@0.27.1920.979" timestamp="1579790547692" />
+    <state width="1878" height="380" key="GridCell.Tab.0.left" timestamp="1579790547692">
+      <screen x="0" y="27" width="1920" height="979" />
+    </state>
+    <state width="1878" height="380" key="GridCell.Tab.0.left/0.27.1920.979@0.27.1920.979" timestamp="1579790547692" />
+    <state width="1878" height="380" key="GridCell.Tab.0.right" timestamp="1579790547692">
+      <screen x="0" y="27" width="1920" height="979" />
+    </state>
+    <state width="1878" height="380" key="GridCell.Tab.0.right/0.27.1920.979@0.27.1920.979" timestamp="1579790547692" />
+    <state width="1878" height="316" key="GridCell.Tab.1.bottom" timestamp="1579652855776">
+      <screen x="0" y="27" width="1920" height="979" />
+    </state>
+    <state width="1878" height="316" key="GridCell.Tab.1.bottom/0.27.1920.979@0.27.1920.979" timestamp="1579652855776" />
+    <state width="1878" height="316" key="GridCell.Tab.1.center" timestamp="1579652855776">
+      <screen x="0" y="27" width="1920" height="979" />
+    </state>
+    <state width="1878" height="316" key="GridCell.Tab.1.center/0.27.1920.979@0.27.1920.979" timestamp="1579652855776" />
+    <state width="1878" height="316" key="GridCell.Tab.1.left" timestamp="1579652855775">
+      <screen x="0" y="27" width="1920" height="979" />
+    </state>
+    <state width="1878" height="316" key="GridCell.Tab.1.left/0.27.1920.979@0.27.1920.979" timestamp="1579652855775" />
+    <state width="1878" height="316" key="GridCell.Tab.1.right" timestamp="1579652855776">
+      <screen x="0" y="27" width="1920" height="979" />
+    </state>
+    <state width="1878" height="316" key="GridCell.Tab.1.right/0.27.1920.979@0.27.1920.979" timestamp="1579652855776" />
+    <state width="1878" height="316" key="GridCell.Tab.2.bottom" timestamp="1579652855777">
+      <screen x="0" y="27" width="1920" height="979" />
+    </state>
+    <state width="1878" height="316" key="GridCell.Tab.2.bottom/0.27.1920.979@0.27.1920.979" timestamp="1579652855777" />
+    <state width="1878" height="316" key="GridCell.Tab.2.center" timestamp="1579652855776">
+      <screen x="0" y="27" width="1920" height="979" />
+    </state>
+    <state width="1878" height="316" key="GridCell.Tab.2.center/0.27.1920.979@0.27.1920.979" timestamp="1579652855776" />
+    <state width="1878" height="316" key="GridCell.Tab.2.left" timestamp="1579652855776">
+      <screen x="0" y="27" width="1920" height="979" />
+    </state>
+    <state width="1878" height="316" key="GridCell.Tab.2.left/0.27.1920.979@0.27.1920.979" timestamp="1579652855776" />
+    <state width="1878" height="316" key="GridCell.Tab.2.right" timestamp="1579652855776">
+      <screen x="0" y="27" width="1920" height="979" />
+    </state>
+    <state width="1878" height="316" key="GridCell.Tab.2.right/0.27.1920.979@0.27.1920.979" timestamp="1579652855776" />
+    <state x="643" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1577037305186">
+      <screen x="0" y="27" width="1920" height="979" />
+    </state>
+    <state x="643" y="344" key="com.intellij.ide.util.TipDialog/0.27.1920.979@0.27.1920.979" timestamp="1577037305186" />
+    <state x="376" y="140" width="1157" height="751" key="new project wizard" timestamp="1577037145024">
+      <screen x="0" y="27" width="1920" height="979" />
+    </state>
+    <state x="376" y="140" width="1157" height="751" key="new project wizard/0.27.1920.979@0.27.1920.979" timestamp="1577037145023" />
+    <state x="623" y="240" width="672" height="678" key="search.everywhere.popup" timestamp="1579646591102">
+      <screen x="0" y="27" width="1920" height="979" />
+    </state>
+    <state x="623" y="240" width="672" height="678" key="search.everywhere.popup/0.27.1920.979@0.27.1920.979" timestamp="1579646591102" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>
